@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="750.0" style="-fx-background-color: #333645;" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Label alignment="BOTTOM_CENTER" layoutX="-3.0" prefHeight="47.0" prefWidth="766.0" style="-fx-background-color: #00A2D3;" text="CONTACT US" textFill="WHITE">
+         <font>
+            <Font name="Ebrima Bold" size="36.0" />
+         </font>
+      </Label>
+      <Label alignment="BOTTOM_CENTER" layoutX="10.0" layoutY="87.0" prefHeight="60.0" prefWidth="250.0" text="Developers :-" textFill="WHITE">
+         <font>
+            <Font name="Ebrima Bold" size="36.0" />
+         </font>
+      </Label>
+      <VBox layoutX="239.0" layoutY="362.0" prefHeight="215.0" prefWidth="504.0" spacing="15.0">
+         <children>
+            <Label alignment="BOTTOM_CENTER" prefHeight="47.0" prefWidth="519.0" text=" ksaraf_be17@thapar.edu" textFill="WHITE">
+               <font>
+                  <Font name="Ebrima Bold" size="36.0" />
+               </font>
+            </Label>
+            <Label alignment="BOTTOM_CENTER" prefHeight="47.0" prefWidth="504.0" text=" kanand_be17@thapar.edu" textFill="WHITE">
+               <font>
+                  <Font name="Ebrima Bold" size="36.0" />
+               </font>
+            </Label>
+            <Label alignment="BOTTOM_CENTER" prefHeight="47.0" prefWidth="543.0" text=" kbajaj_be17@thapar.edu" textFill="WHITE">
+               <font>
+                  <Font name="Ebrima Bold" size="36.0" />
+               </font>
+            </Label>
+         </children>
+      </VBox>
+      <Label alignment="BOTTOM_CENTER" layoutX="-8.0" layoutY="363.0" prefHeight="60.0" prefWidth="287.0" text="EMAIL AT :-" textFill="WHITE">
+         <font>
+            <Font name="Ebrima Bold" size="36.0" />
+         </font>
+      </Label>
+      <VBox layoutX="260.0" layoutY="71.0" prefHeight="171.0" prefWidth="384.0" spacing="10.0">
+         <children>
+            <Label alignment="BOTTOM_CENTER" prefHeight="47.0" prefWidth="519.0" text=" KUNAL SARAF" textFill="WHITE">
+               <font>
+                  <Font name="Ebrima Bold" size="36.0" />
+               </font>
+            </Label>
+            <Label alignment="BOTTOM_CENTER" prefHeight="47.0" prefWidth="504.0" text="KUNAL BAJAJ" textFill="WHITE">
+               <font>
+                  <Font name="Ebrima Bold" size="36.0" />
+               </font>
+            </Label>
+            <Label alignment="BOTTOM_CENTER" prefHeight="47.0" prefWidth="543.0" text="KESHAV ANAND" textFill="WHITE">
+               <font>
+                  <Font name="Ebrima Bold" size="36.0" />
+               </font>
+            </Label>
+         </children>
+      </VBox>
+      <Label alignment="BOTTOM_CENTER" layoutX="1.0" layoutY="292.0" prefHeight="47.0" prefWidth="758.0" style="-fx-background-color: #00A2D3;" text="REPORT A BUG" textFill="WHITE">
+         <font>
+            <Font name="Ebrima Bold" size="36.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>

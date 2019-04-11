@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: extra_class_bookingsystem.Main
+Main-Class: extra_class_bookingsystem.Main
+
